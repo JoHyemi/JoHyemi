@@ -2,13 +2,13 @@
 <div align="center">
   
 </br> </br>
-<p align="center">🌱자라나는 프론트엔드 개발자 조혜미입니다.🌱</p>
-<p align="center">🌱now i'm growing to become a FE Developer🌱</p>
+🌱 Hi:) I'm Frontend Developer **Hyemi Jo**. 🌱<br>
+
 
 
 </br> </br>
 </br> </br>
-👩🏻‍💻 Tech Stack 👩🏻‍💻
+👩🏻‍💻 **Tech Stack** 👩🏻‍💻
 <!-- https://simpleicons.org/ -->
 <img src="https://img.shields.io/badge/HTML-f5f5f5?style=flat-square&logo=HTML5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS-f5f5f5?style=flat-square&logo=CSS3&logoColor=1572B6" />
@@ -20,11 +20,12 @@
 
 </br> </br>
 </br> </br>
-<p align="center">💬 Contact 💬</p>
+💬 **Contact** 💬
+<div>
   <a href="https://velog.io/@m2mejo">
     <img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@m2mejo"/>
 <a href="https://twitter.com/zojo_jozo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-
+    </div>
 </br> </br>
 </br> </br>
 [![JoHyemi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoHyemi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JoHyemi)
