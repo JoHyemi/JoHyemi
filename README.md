@@ -24,7 +24,7 @@
 <div>
   <a href="https://velog.io/@m2mejo">
     <img src="https://img.shields.io/badge/%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@m2mejo"/>
-<a href="https://twitter.com/zojo_jozo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+
     </div>
 </br> </br>
 </br> </br>
